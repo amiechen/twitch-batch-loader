@@ -8,14 +8,16 @@ Once finished, copy the `Client ID`. You will need it to run the script.
 
 2) Install python on your machine if you haven't.
 
-### Install:
+### Usage:
 
 1) Install several python packages
 ```
 pip install request progressbar2
 ```
 
-2) Then run the batchloader script with your new Client Id
+2) Add all the clips you want into `clips.txt`
+
+3) Then run the batchloader script with your new Client Id
 ```
 cd twitch-batch-loader
 python batchloader.py <YOUR AWESOME CLIENT ID>
