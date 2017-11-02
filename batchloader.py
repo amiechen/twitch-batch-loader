@@ -21,6 +21,7 @@ for clip in open('clips.txt', 'r'):
     slug = clip.split('/')[3]
     outputpath = (basepath + slug + '.mp4').replace('\n', '')
     clip_path = base_clip_path + retrieve_mp4_url(slug) + '.mp4'
+
     print('start downloading clip ' + clip_path)
     urllib.request.urlretrieve(clip_path, outputpath, reporthook=dlProgress)
     print('finish downloading')
