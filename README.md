@@ -1,4 +1,6 @@
 # Batch Clips Downloader for Twitch
+![example-gif]
+[example-gif]: twitch-batch-loader/batchloader.py "Batch Loader"
 
 ### Pre-Install:
 
