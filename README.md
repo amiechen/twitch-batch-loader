@@ -2,8 +2,8 @@
 
 ### Pre-Install:
 
-1) Get a twitch Client_Id Token by registering a twitch app (here)[https://dev.twitch.tv/dashboard/apps/create]. You can just put http://localhost for the `OAuth Redirect URI` section.
-Once you finished, copy the `Client ID`. You will need it to run the script.
+1) Get a twitch Client_Id Token by registering a twitch app [here](https://dev.twitch.tv/dashboard/apps/create).
+Once finished, copy the `Client ID`. You will need it to run the script.
 
 2) Install python on your machine if you haven't.
 
