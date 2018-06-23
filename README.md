@@ -1,5 +1,5 @@
 # Twitch Clip Batch Downloader  
-![example-gif](https://github.com/amiechen/twitch-batch-loader/blob/master/batchloader.gif)
+![example-gif](https://github.com/daevski/twitch-batch-loader/blob/master/batchloader.gif)
 
 ### Pre-Install:
 
@@ -10,12 +10,12 @@ Once finished, copy the `Client ID`. You will need it to run the script.
 
 ### Usage:
 
-1) Install several python packages
+1) Install python packages
 ```
-pip install request progressbar2
+pip install requests
 ```
 
-2) Delete the example clips in `clips.txt` and the ones your want. Make sure it has no trailing spaces nor comma (I'm too lazy to strip it out).
+2) Delete the example clips in `clips.txt` and the ones your want. Put each URL on it's own line. No commas or anything like that.
 
 3) Then run the batchloader script with your new Client Id
 ```
@@ -23,4 +23,4 @@ cd twitch-batch-loader
 python batchloader.py <YOUR AWESOME CLIENT ID>
 ```
 
-Voila! once you see the finished message in your terminal, check the `downloads` folder in this repo and you should see the videos there.
+Voilà! once you see the finished message in your terminal, check the `downloads` folder in this repo and you should see the videos there.
