@@ -6,7 +6,7 @@
 1) Get a twitch `Client ID` by registering a twitch app [here](https://dev.twitch.tv/dashboard/apps/create).
 Once finished, copy the `Client ID`. You will need it to run the script.
 
-2) Install python on your machine if you haven't.
+2) Install python 3 on your machine if you haven't.
 
 ### Usage:
 
