@@ -1,5 +1,5 @@
 # Twitch Clip Batch Downloader  
-![example-gif](https://github.com/daevski/twitch-batch-loader/blob/master/batchloader.gif)
+![example-gif](https://github.com/daevski/twitch-batch-loader/blob/master/example.gif)
 
 ### Pre-Install:
 
