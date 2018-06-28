@@ -1,12 +1,12 @@
 # Twitch Clip Batch Downloader  
-![example-gif](https://github.com/daevski/twitch-batch-loader/blob/master/batchloader.gif)
+![example-gif](https://github.com/amiechen/twitch-batch-loader/blob/master/example.gif)
 
 ### Pre-Install:
 
 1) Get a twitch `Client ID` by registering a twitch app [here](https://dev.twitch.tv/dashboard/apps/create).
 Once finished, copy the `Client ID`. You will need it to run the script.
 
-2) Install python on your machine if you haven't.
+2) Install python 3 on your machine if you haven't.
 
 ### Usage:
 
